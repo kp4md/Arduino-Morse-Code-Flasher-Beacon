@@ -10,7 +10,9 @@ Try the Online Simulator at https://wokwi.com/projects/451637704092110849
 
 The MOSFETs are two BS170's and the buzzer is a passive 5.5Ω electromagnetic type. 
 The 24 parallel LED's, the 1.8Ω resistor and the 4.5V battery (3 AAA cells) are the original internal flashlight circuit. 
+
 Schematic diagram: https://www.circuit-diagram.org/circuits/6f26bf8eb881425b98d788584593bcd9
+
 Arduino sketch & WOKWI Simulation: https://wokwi.com/projects/451637704092110849
 
 <img width="580" height="538" alt="Morse Code Flasher Beacon" src="https://github.com/user-attachments/assets/7e6d9b4f-1662-4bb8-8056-f4674fe605ab" />

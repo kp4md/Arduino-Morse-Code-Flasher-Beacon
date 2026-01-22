@@ -33,5 +33,4 @@ The Morse Code Flasher Beacon is soldered onto a perfboard.
 The beacon is visible over 1 km at night and can simultaneously sound a buzzer with 90 dB at 2500 Hz.  
 It flashed for over twelve hours using a fresh 9 volt alkaline battery and three AA cells.
 
-![IMG_6423](https://github.com/user-attachments/assets/984f56e5-5f9f-4ab3-8196-4f72570c1306)
-<img width="853" height="480" alt="vlcsnap-2026-01-11-15h16m41s656" src="https://github.com/user-attachments/assets/c6a0bd36-08b2-43fa-849d-423ea171b498" />
+[<img width="1193" height="675" alt="vlcsnap-2026-01-11-15h16m41s656" src="https://github.com/user-attachments/assets/c6a0bd36-08b2-43fa-849d-423ea171b498" />](https://www.youtube.com/watch?v=F7K6tVZFt3o)

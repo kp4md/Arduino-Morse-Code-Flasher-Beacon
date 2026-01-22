@@ -2,7 +2,7 @@
 This Arduino Nano Sketch flashes a bright LED light and 90 dB buzzer with a repeating message in Morse Code.  It includes punctuation and ITU prosigns.
 It is originally designed to flash a 100 lumen Harbor Freight 24 LED Superbright Worklight/Flashlight which is visible over 1 km at night and can simultaneously sound a 90 dB 2500 Hz buzzer.
 
-<img width="1193" height="675" alt="Screenshot 2025-12-28 213411" src="https://github.com/user-attachments/assets/79c41407-99a4-4de0-bdc4-e55201be43d0" />
+[<img width="1193" height="675" alt="Screenshot 2025-12-28 213411" src="https://github.com/user-attachments/assets/79c41407-99a4-4de0-bdc4-e55201be43d0" />](https://www.youtube.com/watch?v=QWzxtAXYNEI)
 
 Try the Online Simulator at https://wokwi.com/projects/451637704092110849
 
